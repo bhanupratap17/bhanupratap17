@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bhanupratap17/bhanupratap17/bhanupratap17/trilokia.svg"/>
+  <img src="https://raw.githubusercontent.com/bhanupratap17/bhanupratap17/bhanupratap17/bhanupratap17.svg"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Bhanupratap</h1>
