@@ -9,5 +9,10 @@
 ## 💻 Tech Stack
 Angular | JavaScript | Node.js | Express | MongoDB
 
+## Skills
+![My Skills](https://skillicons.dev/icons?i=angular,nodejs,js,html,css,mongodb,git)
+
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=bhanupratap17&show_icons=true&theme=tokyonight)
+
+
