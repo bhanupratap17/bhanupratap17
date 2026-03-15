@@ -18,5 +18,10 @@ Angular | JavaScript | Node.js | Express | MongoDB
 ## Vistor Count
 ![Profile Views](https://komarev.com/ghpvc/?username=bhanupratap17)
 
+## Activities
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhanupratap17)
+
+
+
 
 
