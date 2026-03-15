@@ -15,4 +15,8 @@ Angular | JavaScript | Node.js | Express | MongoDB
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=bhanupratap17&show_icons=true&theme=tokyonight)
 
+## Vistor Count
+![Profile Views](https://komarev.com/ghpvc/?username=bhanupratap17)
+
+
 
