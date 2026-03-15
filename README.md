@@ -1,12 +1,9 @@
 <!-- HEADER BANNER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bhanupratap17/bhanupratap17/bhanupratap17/bhanupratap17.svg"/>
-</p>
 
 <h1 align="center">Hi 👋, I'm Bhanupratap</h1>
 
 <h3 align="center">
-Full Stack Developer | Angular Specialist | JavaScript Enthusiast
+Full Stack Developer | Angular Developer |
 </h3>
 
 <p align="center">
@@ -18,7 +15,7 @@ Full Stack Developer | Angular Specialist | JavaScript Enthusiast
 ## 🚀 About Me
 
 💻 Passionate **Full Stack Developer**  
-⚡ Specialized in **Angular & JavaScript ecosystem**  
+⚡ Specialized in **Angular & Node ecosystem**  
 🧠 Always learning and exploring modern technologies  
 🎯 Goal: Build impactful applications that improve people's lives  
 
@@ -35,9 +32,6 @@ Full Stack Developer | Angular Specialist | JavaScript Enthusiast
   <a href="https://in.linkedin.com/in/bhanupratap-b-31b17b173">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://drive.google.com/file/d/1eRxlrHlz19RXMuzFSNEDq9_6h7qfDSyU/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-  </a>
 </p>
 
 ---
@@ -48,44 +42,7 @@ Full Stack Developer | Angular Specialist | JavaScript Enthusiast
   <img src="https://skillicons.dev/icons?i=angular,ts,js,nodejs,express,mongodb,html,css,git,github,vscode" />
 </p>
 
----
-
-## 🧠 Skills
-
-✔ Frontend Development  
-✔ REST API Development  
-✔ Responsive Web Design  
-✔ State Management  
-✔ Authentication & Authorization  
-✔ Full Stack Application Architecture  
-
----
-
-## 🚀 Featured Projects
-
-### 🛒 E-commerce Platform
-Angular + Node.js + MongoDB  
-Features:
-- Authentication
-- Shopping Cart
-- Payment Integration
-- Admin Dashboard
-
-### 💬 Real-Time Chat App
-Angular + Node.js + Socket.io  
-Features:
-- Live Messaging
-- Notifications
-- Online Users
-
-### 📊 Admin Dashboard
-Angular + REST APIs  
-Features:
-- Charts & Analytics
-- User Management
-- Dynamic UI
-
----
+---  
 
 ## 📊 GitHub Stats
 
