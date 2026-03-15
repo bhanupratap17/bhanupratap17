@@ -7,7 +7,7 @@ Full Stack Developer | Angular Developer |
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Angular+Developer;Full+Stack+JavaScript+Developer;Node.js+%7C+Express+%7C+MongoDB;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Angular+Developer;Full+Stack+Developer+(MEAN Stack );Node.js+%7C+Express+%7C+MongoDB;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
 </p>
 
 ---
