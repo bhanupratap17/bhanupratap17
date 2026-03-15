@@ -83,8 +83,12 @@ Full Stack Developer | Angular Developer |
   > "Code. Learn. Build. Improve. Repeat."
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=%3E+Code.+Learn.+Build.+Improve.+Repeat."/>
+</p> -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=%3E+Code.+Learn.+Build.+Improve.+Repeat.;%3E+Keep+Shipping+Better+Code."/>
 </p>
 
 ---
