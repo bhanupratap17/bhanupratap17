@@ -1,15 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background rectangle -->
-  <rect width="100%" height="100%" fill="#f0f0f0"/>
-  
-  <!-- Text -->
-  <text x="50%" y="50%" font-family="Arial, sans-serif" font-size="24" 
-        fill="#333" text-anchor="middle" alignment-baseline="middle">
-    Bhanupratap Bhana
-  </text>
-</svg>
+  <img src="https://raw.githubusercontent.com/bhanupratap17/bhanupratap17/bhanupratap17/trilokia.svg"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Bhanupratap</h1>
