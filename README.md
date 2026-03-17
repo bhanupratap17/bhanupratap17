@@ -47,8 +47,8 @@ Full Stack Developer | Angular Developer |
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhanupratap17&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanupratap17&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bhanupratap21&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanupratap21&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -56,7 +56,7 @@ Full Stack Developer | Angular Developer |
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=bhanupratap17&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com/?user=bhanupratap21&theme=tokyonight"/>
 </p>
 
 ---
@@ -64,7 +64,7 @@ Full Stack Developer | Angular Developer |
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhanupratap17&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhanupratap21&theme=tokyo-night"/>
 </p>
 
 ---
@@ -72,7 +72,7 @@ Full Stack Developer | Angular Developer |
 ## 👀 Profile Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhanupratap17&style=for-the-badge&color=blue"/>
+  <img src="https://komarev.com/ghpvc/?username=bhanupratap21&style=for-the-badge&color=blue"/>
 </p>
 
 ---
